@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋 I'm José Barbosa and I'm a computer science student at University of Minho 🎓
 
 <!--
 **zeisalone/zeisalone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
