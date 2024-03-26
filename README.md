@@ -1,2 +1,1 @@
-### Hello there 👋 I'm José Barbosa and I'm a computer science student at University of Minho 🎓
-
+### Hello there 👋 I'm José Barbosa and I've graduted from computer science at University of Minho and I'm currently studying software engineering.
