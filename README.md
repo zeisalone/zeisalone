@@ -22,7 +22,7 @@ My Github mainly consists of University Projects.
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### Socials
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jose-miguel-barbosa-314b04264)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jose-miguel-barbosa-314b04264/)
 <!---
 ###
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeisalone&layout=compact&theme=dark)
